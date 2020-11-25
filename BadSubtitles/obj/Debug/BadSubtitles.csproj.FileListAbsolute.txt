@@ -1,0 +1,10 @@
+C:\Users\al68636\source\repos\BadSubtitles\obj\Debug\BadSubtitles.csprojAssemblyReference.cache
+C:\Users\al68636\source\repos\BadSubtitles\obj\Debug\BadSubtitles.Properties.Resources.resources
+C:\Users\al68636\source\repos\BadSubtitles\obj\Debug\BadSubtitles.csproj.GenerateResource.cache
+C:\Users\al68636\source\repos\BadSubtitles\obj\Debug\BadSubtitles.csproj.CoreCompileInputs.cache
+C:\Users\al68636\source\repos\BadSubtitles\bin\Debug\BadSubtitles.exe.config
+C:\Users\al68636\source\repos\BadSubtitles\bin\Debug\BadSubtitles.exe
+C:\Users\al68636\source\repos\BadSubtitles\bin\Debug\BadSubtitles.pdb
+C:\Users\al68636\source\repos\BadSubtitles\obj\Debug\BadSubtitles.exe
+C:\Users\al68636\source\repos\BadSubtitles\obj\Debug\BadSubtitles.pdb
+C:\Users\al68636\source\repos\BadSubtitles\obj\Debug\BadSubtitles.MainView.resources
